@@ -6,4 +6,3 @@ Hello! 👋 Vaishnavi Gowda here
 - 📫 How to reach me (EmailId):- { gowdavaishu34@gmail.com }
 
 
-
