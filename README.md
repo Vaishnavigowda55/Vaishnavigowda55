@@ -4,4 +4,3 @@
   
 # Techz:
 
-![Uploading image.png…]()
